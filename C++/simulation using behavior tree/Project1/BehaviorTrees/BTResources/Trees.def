@@ -1,0 +1,5 @@
+#include "../BTResources/AttackerTree.bht"
+#include "../BTResources/EnemyTree.bht"
+#include "../BTResources/Example.bht"
+#include "../BTResources/PlayerTree.bht"
+#include "../BTResources/SpawnerTree.bht"

@@ -1,0 +1,5 @@
+Simulating 16 threads for 10 seconds
+Time's up. waiting for thread
+done
+44700000 moves made
+
